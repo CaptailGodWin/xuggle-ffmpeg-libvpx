@@ -8,9 +8,12 @@ Contents:
 
 Instructions:
 
-- Overwrite xuggle-ffmpeg root folder with all the archives provided.
+- execute "git submodule init" & "git submodule update" to grab latest libvpx libraries.
+- To apply it to xuggle-ffmpeg just overwrite root folder with all the archives provided.
 - Execute 'autoreconf' on xuggle-ffmepg root folder to update all generated config files.
+- Then it should compile cleanly
 
+Enjoy!
 
 
  
