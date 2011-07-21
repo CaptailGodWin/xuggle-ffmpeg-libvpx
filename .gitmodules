@@ -1,0 +1,3 @@
+[submodule "libvpx/csrc"]
+	path = libvpx/csrc
+	url = git://review.webmproject.org/libvpx.git

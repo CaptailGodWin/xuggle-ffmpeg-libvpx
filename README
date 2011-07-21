@@ -1,0 +1,16 @@
+This folder contains all modifications needed to add libvpx support to xuggle-fmpeg using its captive compiling system.
+
+Contents:
+
+- Makefile.am -> Automake file with newly added variable names
+- configure.ac -> Added libvpx support
+- libvpx\ -> Folder containing libvpx 0.96 using xuggle incarceration system
+
+Instructions:
+
+- Overwrite xuggle-ffmpeg root folder with all the archives provided.
+- Execute 'autoreconf' on xuggle-ffmepg root folder to update all generated config files.
+
+
+
+ 
